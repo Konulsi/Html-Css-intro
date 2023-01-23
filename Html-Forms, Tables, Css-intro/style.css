@@ -1,0 +1,199 @@
+
+
+
+/* Task 1 */
+/* .box {
+    margin: 100px 500px;
+    background-color: white;
+    padding: 29px;
+    width: 283px;
+    height: 286px;
+}
+
+.box h1 {
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+
+
+.box .register input {
+    width: 100%;
+    height: 34px;
+}
+
+
+.box .register .chekbox {
+    width: 14px;
+    height: 14px;
+}
+
+.box .register span{
+        font-size: 18px;
+}
+
+.login {
+    margin-top: 21px;
+    width: 100%;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    background-color: blue;
+    border-radius: 7px;
+}
+
+body {
+    background-color: rgb(229, 229, 236);
+} */
+
+
+
+
+
+
+/* Task 2 */
+
+/* 
+body{
+    background-color: rgb(243, 237, 229);
+}
+
+
+.login{
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    margin: 100px 580px;
+    padding: 41px;
+    border-radius: 7px;
+}
+
+
+.login h1{
+    text-align: center;
+}
+
+.login form{
+    margin-right: 10px;
+}
+
+
+.login input{
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(214, 212, 212);
+    
+}
+
+.login label{
+    font-weight: bold;
+    font-size: 18px;
+} 
+
+.login button{
+    margin: 20px 160px;
+    background-color: green;
+    width: 110px;
+    height: 40px;
+    border-radius: 7px;
+    border-color: transparent;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+} */
+
+ 
+
+
+/* Task 3 */
+
+
+/* body{
+    margin: 0;
+}
+
+.banner{
+    background-color: #8B451F;
+    padding: 60px;
+}
+
+.banner h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.contain{
+    background-color: #D2A262;
+    height: 436px;
+}
+
+.contain .navbar{
+    text-align: center;
+    padding: 15px;
+}
+
+.contain .navbar span{
+    margin-left: 32px;
+    font-size: 24px;
+    color: green;
+    font-weight: 700;
+}
+
+.sentences{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sentences h1{
+    font-size: 35px;
+    margin: 0;
+}
+
+.sentences .text{
+    color: #6A2117;
+} */
+
+
+
+/* Task 4 */
+
+/* 
+body{
+    background-color: rgb(243, 237, 229);
+}
+
+.content{
+    background-color: white;
+    padding: 60px;
+    font-size: 20px;
+    margin: 60px;
+}
+
+.content h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.content .heading{
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.content p{
+    font-weight: 900px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.content a{
+    color: black;
+    font-size: 28px;
+}
+
+.content span{
+    font-size: 28px;
+    
+} */
+
+
